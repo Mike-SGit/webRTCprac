@@ -1,0 +1,7 @@
+{"name":"tunnelRat","type":"login"}
+{"name":"tunnelMole","type":"login"}
+{"name":"tunnelMole","type":"offer","offer":"i want to call tunnelMole"}
+{"name":"tunnelRat","type":"answer","answer":"accept call"}
+
+{"name":"tunnelMole","type":"candidate"}
+{"name":"tunnelRat","type":"login"}
